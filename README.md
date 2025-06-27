@@ -1,4 +1,4 @@
 # tanuguleria
-Author - Tanu Guleria
+Author - Tanu Guleria (Student)
 <br>
 This my first Git repository.
